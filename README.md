@@ -2,6 +2,7 @@
 **🔗 Try the Live Demo:
 https://lnkd.in/dwyE7f32**  
 A polished, responsive JSON validation and formatting tool built with **vanilla HTML, CSS, and JavaScript**. It runs entirely in your browser — no backend, dependencies, account, or API key required.
+# GitHub Profile
 **💻 Explore My GitHub & Follow My Journey:
 https://lnkd.in/d5WFGYJ4**
 ## ✨ Features
