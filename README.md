@@ -5,7 +5,7 @@ A polished, responsive JSON validation and formatting tool built with **vanilla 
 ## GitHub Profile
 **💻 Explore My GitHub & Follow My Journey:
 [https://lnkd.in/d5WFGYJ4](https://github.com/Muhtasim-Masum-Hasnayen)**
-###**Explore My LinkedIn & Follow : [https://lnkd.in/d5WFGYJ4](https://www.linkedin.com/in/muhtasim-masum-hasnayen-048517273/)**
+-##**Explore My LinkedIn & Follow : [https://lnkd.in/d5WFGYJ4](https://www.linkedin.com/in/muhtasim-masum-hasnayen-048517273/)**
 ## ✨ Features
 
 - **Validate JSON** using the browser's native `JSON.parse()` parser.
